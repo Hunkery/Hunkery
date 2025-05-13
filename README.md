@@ -6,9 +6,4 @@
 ![gif2](https://media1.tenor.com/m/d4MnDwHabnMAAAAd/junjou-romantica-kirakira.gif)
 
 
-
-  
-![gif](https://dividers.crd.co/assets/images/gallery07/d668f182.png?v=05d33f91)
-
-
 </div>
