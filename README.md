@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <a href="https://maxims.straw.page">Strawpage</a>
+  <a href="https://hunky.straw.page">Strawpage</a>
 </p>
