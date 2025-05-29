@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2b2926e2-9438-4c03-b2ee-88d478f62afd" alt="Alt text" width="300"/>
+  <img src="https://static.wikia.nocookie.net/cookierun/images/f/f0/Cr_1010063-joy2.gif/revision/latest?cb=20250416032106" alt="Description of GIF">
 </p>
 
 <p align="center">
