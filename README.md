@@ -1,19 +1,8 @@
 <p align="center">
-  I lobe chicken.
-</p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&color=8FB156&center=true&vCenter=true&width=435&lines=%22Will+it+rain+today%3F%22" alt="Typing SVG" /></a></p>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/cookierun/images/f/f0/Cr_1010063-joy2.gif/revision/latest?cb=20250416032106" alt="Description of GIF">
-</p>
-
-<p align="center">
-  <a href="https://hunky.straw.page">Strawpage</a>
+  <img src="https://static.wikia.nocookie.net/cookierun/images/3/3a/Cr_1010063-booster_ready_loop.gif/revision/latest?cb=20250416031322" alt="Description of GIF">
 </p>
 
 
-<p align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315smbqoyczqcnc6v5vq7rhvdeim&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=9aa60e&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</p>
