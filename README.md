@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/cookierun/images/3/3a/Cr_1010063-booster_ready_loop.gif/revision/latest?cb=20250416031322" alt="Description of GIF">
+  <img src="https://static.wikia.nocookie.net/cookierun/images/5/5d/Cr_1010063-sad_start.gif/revision/latest?cb=20250416032448" alt="Description of GIF">
 </p>
 
 
