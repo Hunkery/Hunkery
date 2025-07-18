@@ -1,4 +1,7 @@
 
+                                 ‎![](https://komarev.com/ghpvc/?username=Hunkery&label=𖡼&color=ff7a91&style=plastic)
+
+
 <p align="center">
   <img src="https://media1.tenor.com/m/CwpjTLKEPk4AAAAC/herb-is-mad-bc-you-said-planting-is-trash.gif" width="150">
   </p>
