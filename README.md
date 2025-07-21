@@ -3,11 +3,9 @@
 
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/CwpjTLKEPk4AAAAC/herb-is-mad-bc-you-said-planting-is-trash.gif" width="150">
+  <img src="https://preview.redd.it/if-i-had-to-choose-one-thing-to-make-canon-in-the-comics-v0-8165t6xo7zdc1.jpg?width=640&crop=smart&auto=webp&s=805a82a432e75ed228f4f7f78f1f84d7218bfd45" width="150">
   </p>
-
-<p align="center">HE MAD AS HELL</p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/00/da/8c/00da8c27598ea96e64f6986d7b0ba316.gif" width="50">
-  </p>
+  <a href="https://rentry.co/hunkery">Rentry</a>
+</p>
