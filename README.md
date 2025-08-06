@@ -7,5 +7,5 @@
   </p>
 
 <p align="center">
-  <a href="https://rentry.co/hunkery">Rentry</a>
+  <a href="https://hunky.straw.page">Straw</a>
 </p>
