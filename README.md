@@ -1,5 +1,5 @@
 
-                                ‎![](https://komarev.com/ghpvc/?username=Hunkery&label=𖡼&color=839e29&style=plastic)
+                                ‎![](https://komarev.com/ghpvc/?username=Hunkery&label=𖡼&color=83a62b&style=plastic)
 
 
 <p align="center">
@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <a href="https://hunky.straw.page">Straw</a>
+  <a href="https://rentry.co/hunkery">rentry</a>
 </p>
