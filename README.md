@@ -1,5 +1,5 @@
 
-                                [![Hits](https://hits.sh/github.com/DOGq3.svg?style=for-the-badge&label=cute&extraCount=603&color=ff81ac)](https://hits.sh/github.com/DOGq3/)
+                                [![Hits](https://hits.sh/github.com/Hunkery/hits.svg?style=for-the-badge&label=cute&extraCount=603&color=ff7bab)](https://hits.sh/github.com/Hunkery/hits/)
 
 
 <p align="center">
