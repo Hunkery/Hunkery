@@ -1,5 +1,5 @@
 
-                                ‎![](https://komarev.com/ghpvc/?username=Hunkery&label=𖡼&color=83a62b&style=plastic)
+                                [![Hits](https://hits.sh/github.com/DOGq3.svg?style=for-the-badge&label=cute&extraCount=603&color=ff81ac)](https://hits.sh/github.com/DOGq3/)
 
 
 <p align="center">
