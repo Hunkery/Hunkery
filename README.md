@@ -1,9 +1,9 @@
 
-                             [![Hits](https://hits.sh/github.com/Hunkery/hits.svg?style=for-the-badge&label=cute&extraCount=603&color=ff7bab)](https://hits.sh/github.com/Hunkery/hits/)
+                             [![Hits](https://hits.sh/github.com/Hunkery/hits.svg?style=for-the-badge&label=cute&extraCount=603&color=a62f1c)](https://hits.sh/github.com/Hunkery/hits/)
 
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/cookierun/images/d/d6/Cr_1010063-skill.gif/revision/latest?cb=20250416032518" style="width: 150px; height: auto;" />
+  <img src="https://img1.picmix.com/output/pic/normal/8/0/6/2/13012608_236b7.gif" width="250" />
 </p>
 
 <p align="center">
