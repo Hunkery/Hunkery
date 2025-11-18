@@ -8,5 +8,5 @@
  
 
 <p align="center">
-  <a href="https://guns.lol/hunkery">links</a>
+  <a href="https://hunky.straw.page">strawpag</a>
 </p>
